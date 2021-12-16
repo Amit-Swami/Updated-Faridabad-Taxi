@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702217926473",
+    "firebase_url": "https://fbdtaxi-725af-default-rtdb.firebaseio.com",
+    "project_id": "fbdtaxi-725af",
+    "storage_bucket": "fbdtaxi-725af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702217926473:android:bcdb9ee7f1eec73616cc98",
+        "android_client_info": {
+          "package_name": "com.example.faridabadtaxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702217926473-4hoim3ferf8hpaar107818dhqa1npnj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faridabadtaxidriver",
+            "certificate_hash": "f111e3388d2e5ac117fa0e90f106017177933b17"
+          }
+        },
+        {
+          "client_id": "702217926473-egjlkscc2o41lia6qdha7kn2tbn4id93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkjIMvTEjvyqvwLlVzbdQXXNLknmcwtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702217926473-egjlkscc2o41lia6qdha7kn2tbn4id93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
